@@ -1,0 +1,6 @@
+error.log
+*.log
+hi*
+/dir/
+*az*
+db.accdb
